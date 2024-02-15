@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @shanqq
 - 👀 I’m interested in software developer
-- 🌱 I’m currently learning Machine learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ansarishaquib25@gmail.com
 
